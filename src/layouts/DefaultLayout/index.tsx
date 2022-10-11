@@ -6,9 +6,8 @@ import { LayoutContainer } from './styles'
 export function DefaultLayout() {
   return (
     <LayoutContainer>
-      <Card />
-      <Links/> 
       <Outlet />
+      
     </LayoutContainer>
   )
 }

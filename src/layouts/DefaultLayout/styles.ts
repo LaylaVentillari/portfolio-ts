@@ -6,5 +6,5 @@ export const LayoutContainer = styled.div`
   height: calc(100vh -10rem);
   display: flex;
   flex-direction: column;
-  margin-top: 32px;
+  
 `

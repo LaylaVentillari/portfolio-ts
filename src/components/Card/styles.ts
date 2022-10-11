@@ -7,10 +7,8 @@ export const AsideContainer = styled.aside`
   width: 21.75rem;
   height: 18rem;
   margin-left: 40px;
-  padding-bottom: 1rem;
   gap: 2rem;
   `
-
   export const AvatarContainer = styled.div `
   display: flex;
   justify-content: center;
