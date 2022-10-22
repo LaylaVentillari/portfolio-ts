@@ -1,11 +1,11 @@
-import { Container, ItemContainer, ItemsContainer, TitleContainer } from "./style";
+import { Container, ItemContainer, ItemsContainer, TitleContainer } from "./styles";
 
 
 export function Technology(){
   return(
     <Container>
       <TitleContainer>
-        <h1>Tecnologias</h1>
+        <h1>Technologies</h1>
       </TitleContainer>
       <ItemContainer>
         <ItemsContainer><p>JavaScript</p></ItemsContainer>

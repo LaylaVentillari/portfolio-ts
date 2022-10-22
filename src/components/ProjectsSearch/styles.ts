@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   background: ${(props) => props.theme['base-subtitle']};
-  margin-left: 40%;
+  margin-left: 37%;
   margin-top: 2rem;
   width: 50rem;
   height: 5rem;

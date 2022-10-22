@@ -7,8 +7,6 @@ export const Container = styled.div`
   width: 346px;
   height: 208px;
   margin-left: 40px;
-  gap: 2rem;
-  margin-top: 2rem;
 `
 export  const ItemContainer = styled.div` 
   display: grid;

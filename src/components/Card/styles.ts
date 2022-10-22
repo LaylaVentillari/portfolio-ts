@@ -1,13 +1,15 @@
 import styled from "styled-components";
 
-export const AsideContainer = styled.aside`
+export const AsideContainer = styled.div`
   background: ${(props) => props.theme['base-subtitle']};
-  border-radius: 8px;
+  border-radius: 20px;
   overflow: hidden;
   width: 21.75rem;
   height: 18rem;
   margin-left: 40px;
-  gap: 2rem;
+  position: absolute;
+  margin-top: 32px;
+  margin-bottom: 24px;
   `
   export const AvatarContainer = styled.div `
   display: flex;

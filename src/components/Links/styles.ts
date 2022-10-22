@@ -2,12 +2,12 @@ import styled from "styled-components";
 
 export const AsideContainer = styled.aside`
   background: ${(props) => props.theme['base-subtitle']};
-  border-radius: 8px;
+  border-radius: 20px;
   overflow: hidden;
   width: 348px;
   height: 348px;
   margin-left: 40px;
-  margin-top: 2rem;
+  margin-top: 12rem;
   `
 
 export const LinksContainer = styled.div`

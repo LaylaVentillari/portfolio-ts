@@ -1,4 +1,6 @@
 import { Card } from "../../components/Card";
+import { Education } from "../../components/Education";
+import { Footer } from "../../components/Footer";
 import { Links } from "../../components/Links";
 import { Projects } from "../../components/ProjectsSearch";
 import { Technology } from "../../components/Technology";
@@ -12,6 +14,8 @@ export function Home() {
       <Card/>
       <Links/>
       <Technology/>
+      <Education/>
+      <Footer/>
     </HomeContainer>
-  );  
+   );  
 }
